@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
 
-    $name = 'Suleiman';
+    $name = 'Khadija';
 
     return view('index',[
 
