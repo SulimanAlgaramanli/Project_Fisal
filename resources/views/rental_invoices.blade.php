@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
-@section('title', 'Home Page')
+@section('title', 'Rental Invoices Page')
 
 
 @section('content')
 
-    <h1>Welcome to index</h1>
+    <h1>Welcome to rental_invoices</h1>
     <h4>Hello</h4>
 
 @endsection
